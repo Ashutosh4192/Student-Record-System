@@ -33,9 +33,11 @@ structures** to demonstrate fundamental programming concepts.
 
 ## 📂 Project Structure
 
-Student-Report-Card-System/ │ ├── main.cpp \# Main source code ├──
-Report.txt \# Binary file storing student records (auto generated) └──
-README.md \# Project documentation
+Student-Report-Card-System/
+│ 
+├── student_record_system.cpp \# Main source code 
+├── Report.txt \# Binary file storing student records (auto generated) 
+└── README.md \# Project documentation
 
 ------------------------------------------------------------------------
 
@@ -80,7 +82,7 @@ Users interact through a **console-based interface**.
 ### 1️⃣ Clone the Repository
 
 git clone
-https://github.com/your-username/student-report-card-system.git
+https://github.com/Ashutosh4192/Student-Record-System.git
 
 ### 2️⃣ Compile the Program
 
